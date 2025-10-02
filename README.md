@@ -23,8 +23,11 @@ The dataset includes airline safety information with records of incidents, accid
 
 ## Repository Structure  
 ├── data/ # Dataset files
+
 ├── notebooks/ # Jupyter notebooks for analysis
+
 ├── visuals/ # Generated plots and charts
+
 └── README.md # Project documentation
 
 
